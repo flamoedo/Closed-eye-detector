@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Detector de soneca</string>
+    <string name="action_settings">Configurações</string>
+    <string name="closed">Fechado</string>
+    <string name="front_camera">Câmera Frontal</string>
+    <string name="main_camera">Câmera Principal</string>
+    <string name="open">Aberto</string>
+    <string name="start_detection">Iniciar detector</string>
+    <string name="title_activity_show_camera">Câmera</string>
+    <string name="warning">Alarme</string>
+</resources>
