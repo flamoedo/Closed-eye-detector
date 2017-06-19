@@ -2,7 +2,7 @@
 
 This app is a example of using OpenCV and artificial integilence in Android.
 
-This driver fatigue monitoring app "Driver Fatigue Alarm System" utilizes camera camera image capture and digital image processing. With its artificial intelligence algorithms, it ensures that the driver will be promptly warned when fatigue occurs to protect life and property.
+This driver fatigue monitoring app "Driver Fatigue Alarm System" utilizes camera image capture and digital image processing. With its artificial intelligence algorithms, it ensures that the driver will be promptly warned when fatigue occurs to protect life and property.
  
 Drivers are usually not aware that they are fatigued until the actual accident happens. One of the most important functions of the early warning system is to let motorists understand that they are actually in fatigue driving and raise their alertness level. Once the system detects that the driver is under fatigue driving, it will send a warning signal immediately to the driver.
  
